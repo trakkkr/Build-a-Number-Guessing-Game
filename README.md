@@ -1,4 +1,4 @@
-# Build-a-Number-Guessing-Game
+# freeCodeCamp/Build-a-Number-Guessing-Game
 
 ```
 -- CREATE DATABASE number_guess;
